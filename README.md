@@ -1,2 +1,2 @@
-# MEVN_Stack_CRUD-Application_1
+# MEVN_Stack_CRUD-Application
 MongoDB + Express + Vue.js + Node.js
